@@ -1,0 +1,8 @@
+{
+  "name": "Liquid Glass Experience",
+  "description": "A stunning interactive UI featuring real-time WebGL refraction, dispersion, and liquid glass effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
